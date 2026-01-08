@@ -37,3 +37,4 @@ jobs:
           LANGUAGE: ${{ vars.LANGUAGE }}
         run: |
           uv run main.py
+
